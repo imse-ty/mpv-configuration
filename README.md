@@ -22,7 +22,7 @@ Put this configuration inside your `%APPDATA%` directory.
 
 ### Alternative
 
-You also have the option in putting it in the [`portable_conf`](https://mpv.io/manual/master/#files-on-windows) folder wherever your `mpv.exe` is.
+You also have the option of putting it in the [`portable_conf`](https://mpv.io/manual/master/#files-on-windows) folder located wherever your `mpv.exe` is.
 
 ## Credits
 
